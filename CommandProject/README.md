@@ -5,7 +5,9 @@ O projeto foi baseado em um controle remoto de atalhos para Windows, feito em Ja
 ## Grupo
 
 Artur Mota Gomes
+
 Francisco Juan Feliciano da Silva
+
 Esdras de Almeida Oliveira
 
 ## Sobre o projeto
